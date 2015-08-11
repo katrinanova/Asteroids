@@ -1,4 +1,4 @@
-# w6d1: [Asteroids!][description]
+# [Asteroids!][description]
 
 **[Live Demo][live-demo]**
 

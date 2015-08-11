@@ -53,7 +53,6 @@ section#opening {
 #message {
   position: absolute;
   color: white;
-  /*font-size: 40px;*/
   background: red;
   z-index: 1;
   left: calc(50% - 536px / 2);

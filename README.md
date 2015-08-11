@@ -1,6 +1,19 @@
-# [Asteroids!][description]
+# [keeping up with the ASTEROIDS]
 
-**[Live Demo][live-demo]**
 
-[live-demo]: http://appacademy.github.io/asteroids.js
-[description]: https://github.com/appacademy/js-curriculum/blob/master/projects/w6d1-asteroids.md
+## Features
+
+A browser game inspired by the classic arcade game written in JavaScript.
+
+This game relies heavily on radial geometry and basic trigonometry to dynamically rotate, accelerate, propel and collide objects.
+
+The player has 3 lives to shoot all the asteroids, after initial hit asteroids
+break into smaller pieces.
+
+## Languages
+
+- Javascript
+- HTML/CSS
+
+### Future Features
+- [ ] Keep track of levels and increase difficulty accordingly

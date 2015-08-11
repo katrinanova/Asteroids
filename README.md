@@ -1,9 +1,9 @@
-# [keeping up with the ASTEROIDS]
+# keeping up with the ASTEROIDS
 
 
 ## Features
 
-A browser game inspired by the classic arcade game written in JavaScript.
+A browser game inspired by the classic arcade game and current culture issues.
 
 This game relies heavily on radial geometry and basic trigonometry to dynamically rotate, accelerate, propel and collide objects.
 
@@ -14,6 +14,8 @@ break into smaller pieces.
 
 - Javascript
 - HTML/CSS
+
+
 
 ### Future Features
 - [ ] Keep track of levels and increase difficulty accordingly

@@ -10,6 +10,13 @@ This game relies heavily on radial geometry and basic trigonometry to dynamicall
 The player has 3 lives to shoot all the asteroids, after initial hit asteroids
 break into smaller pieces.
 
+## How to play
+
+- SPACE to shoot
+- RIGHT/LEFT ARROW to turn
+- UP ARROW to accelerate
+- DOWN ARROW to slowdown
+
 ## Languages
 
 - Javascript

@@ -34,8 +34,8 @@
         canvasEl.width = Asteroids.Game.DIM_X;
         canvasEl.height = Asteroids.Game.DIM_Y;
         var ctx = canvasEl.getContext("2d");
-        var game = new Asteroids.Game();
-        new Asteroids.GameView(game, ctx).renderOpening();
+        var game = new Asteroids.Game(ctx);
+        new Asteroids.GameView(game, ctx).renderOpening(ctx);
 
       })();
 

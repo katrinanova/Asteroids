@@ -1,5 +1,8 @@
 # keeping up with the ASTEROIDS
 
+Live at [http://katrinadev.com/Asteroids/][github-pages]
+[github-pages]: http://katrinadev.com/Asteroids/
+
 
 ## Features
 

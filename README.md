@@ -1,6 +1,6 @@
 # keeping up with the ASTEROIDS
 
-## Play at [http://katrinadev.com/Asteroids/][github-pages]
+### Play at [http://katrinadev.com/Asteroids/][github-pages]
 [github-pages]: http://katrinadev.com/Asteroids/
 
 
